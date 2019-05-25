@@ -1,7 +1,23 @@
+html{
+    text-justify: auto;
+    font-family: arial;
+}
+
+.topico{
+        color: dimgrey;
+        font-size: 1em;
+        width: 30%;
+        background-color: gainsboro;
+        text-align: center;
+    font-family: monospace;
+    border-bottom-style: solid;
+        }
+
 h1{
-    color: red;
+    color: dimgrey;
     font-size: 3em;
+    } 
+
+
 }
-h.topico{
-        color: coral;
-}
+
